@@ -19,7 +19,7 @@ This command forcefully pushed my local "master" branch to the remote repository
 The repository is organized as follows:
 
  * src: This directory contains the source code files of the number guessing game.
- “*” README.md: This file provides an overview of the project and instructions on how to use and run the game.
+ * README.md: This file provides an overview of the project and instructions on how to use and run the game.
 Feel free to explore the repository to gain a deeper understanding of the project and the code I have written.
 
 ## Installation and Usage
